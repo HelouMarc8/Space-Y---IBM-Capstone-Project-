@@ -1,2 +1,2 @@
-# Space-Y---IBM-Capstone-Project-
-IBM Capstone Project, prediction of a rocket launching company called Space Y.
+# Space-X---IBM-Capstone-Project-
+IBM Capstone Project, prediction of a rocket launching company called Space X.
